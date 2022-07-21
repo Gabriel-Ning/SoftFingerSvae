@@ -10,7 +10,7 @@ This repository contains the implementation of the Supervised Variational Autoen
 ## Datasets
 
 1. Download [Soft Finger Dataset](https://drive.google.com/file/d/19CmZHYsDnuvNeUjVXZHiOqFZsTBYsM9z/view?usp=sharing). 
-2. Extract "dataset" folder to root directory of this git repository
+2. Extract "dataset" folder to root directory of this git repository : /path/to/SoftFingerSvae
 
 
 ## Training && Evaluation
