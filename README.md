@@ -4,7 +4,7 @@ This repository contains the implementation of the Supervised Variational Autoen
 
 **Autoencoding a Soft Touch to Learn Grasping Underwater**
 
-*[Ning Guo](https://gabriel-ning.github.io/), [Xudong Han],[Xiaobo Liu],[Fang Wan],[Chaoyang Song]*
+*[Ning Guo](https://gabriel-ning.github.io/), Xudong Han, Xiaobo Liu, Fang Wan**, Chaoyang Song*
 
 
 ## Datasets
@@ -24,21 +24,14 @@ This repository contains the implementation of the Supervised Variational Autoen
 
 This code was developed with Python 3.8 on Ubuntu 18.04.  Additional Python packages:
 
-pytorch,
-
-pytorch_lightning,
-
-torchmetrics,
-
-numpy,
-
-torchvision,
-
-pandas,
-
-skimage,
-
-PILLOW
+- pytorch
+- pytorch_lightning
+- torchmetrics
+- numpy
+- torchvision
+- pandas
+- skimage
+- PILLOW
 
 
 ## Links
