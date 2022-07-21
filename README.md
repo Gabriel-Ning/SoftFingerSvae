@@ -43,4 +43,4 @@ PILLOW
 
 ## Links
 
-- [Project](https://gabriel-ning.github.io/research/softfingerlearning/)
+- [Project Page](https://gabriel-ning.github.io/research/softfingerlearning/)
