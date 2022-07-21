@@ -24,16 +24,23 @@ This repository contains the implementation of the Supervised Variational Autoen
 
 This code was developed with Python 3.8 on Ubuntu 18.04.  Additional Python packages:
 
-pytorch
-pytorch_lightning
-torchmetrics
-numpy
-torchvision
-pandas
-skimage
+pytorch,
+
+pytorch_lightning,
+
+torchmetrics,
+
+numpy,
+
+torchvision,
+
+pandas,
+
+skimage,
+
 PILLOW
 
 
-**Project Link**
+## Links
 
-Any questions or comments contact [Ning Guo](https://gabriel-ning.github.io/research/softfingerlearning/).
+- [Project](https://gabriel-ning.github.io/research/softfingerlearning/)
