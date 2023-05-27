@@ -8,7 +8,7 @@ from src.callbacks.printing_callback import MyPrintingCallback, GenerateCallback
 from pytorch_lightning.callbacks import LearningRateMonitor, ModelCheckpoint
 
 if __name__ == "__main__":
-    # VAE Learning for Soft Finger
+    # Sequence Regression Learning for Soft Finger
     ## Training Data
     dm  = SoftFingerSequenceDataModule(image_folder_dir="/home/ghost/Documents/workspace/Thesis-Project/AmphibiousSoftFinger/images",
                                      lable_npy_file="/home/ghost/Documents/workspace/Thesis-Project/AmphibiousSoftFinger/force_vecs.npy",
